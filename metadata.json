@@ -2,8 +2,8 @@
   "name": "EduLink",
   "symbol": "EDNLK",
   "description": "EduLink is a blockchain-powered token that facilitates eLearning, incentivizing students and educators with seamless transactions, staking, and rewards within the Edu369 ecosystem.",
-  "image": "https://raw.githubusercontent.com/edu369/edulink-assets/main/images/edulink_logo.png",
-  "animation_url": "https://raw.githubusercontent.com/edu369/edulink-assets/main/animations/edulink_animation.mp4",
+  "image": "https://github.com/ErhanArslanCSE/edulink-assets/blob/main/edulink_logo.png",
+  "animation_url": "https://github.com/ErhanArslanCSE/edulink-assets/blob/main/edulink_animation.gif",
   "external_url": "https://edu369.com",
   "attributes": [
     {
@@ -30,11 +30,11 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/edu369/edulink-assets/main/images/edulink_logo.png",
+        "uri": "https://github.com/ErhanArslanCSE/edulink-assets/blob/main/edulink_logo.png",
         "type": "image/png"
       },
       {
-        "uri": "https://raw.githubusercontent.com/edu369/edulink-assets/main/animations/edulink_animation.mp4",
+        "uri": "https://github.com/ErhanArslanCSE/edulink-assets/blob/main/edulink_animation.gif",
         "type": "video/mp4"
       }
     ],
